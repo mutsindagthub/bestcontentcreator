@@ -1,0 +1,6 @@
+{
+  "name": "ContentCreatorSkills",
+  "description": "AI Creative Partner for Content Creators, Musicians, Comedians, and Showbiz Industry in Kinyarwanda, Français, English, and Kiswahili.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
